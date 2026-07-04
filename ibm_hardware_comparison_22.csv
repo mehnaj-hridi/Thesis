@@ -1,0 +1,3 @@
+Configuration,Accuracy,F1 Macro,N_train,N_test
+Ideal Simulation,0.9166666666666666,0.916083916083916,22,12
+IBM Hardware (ibm_fez),0.9166666666666666,0.916083916083916,22,12

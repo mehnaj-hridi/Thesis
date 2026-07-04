@@ -1,0 +1,7 @@
+Rank,Feature,Mean |SHAP|
+1,web_js_len,0.20596993355995472
+2,js_obfuscation_ratio,0.12681392019583884
+3,web_js_obf_len,0.06166084809118066
+4,content_entropy,0.04947847464238971
+5,domain_trust_score,0.04044841240462979
+6,content_num_scripts,0.029516674376155377

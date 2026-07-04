@@ -1,0 +1,6 @@
+Noise Level (p),Configuration,Accuracy,Macro F1-Score,Degradation (%),Training Time (min)
+0.0,Ideal (no noise),0.94,0.94,0.0,0.3
+0.001,Depolarizing p=0.001,0.94,0.94,0.0,0.3
+0.005,Depolarizing p=0.005,0.94,0.94,0.0,0.3
+0.01,Depolarizing p=0.01,0.94,0.94,0.0,0.3
+0.05,Depolarizing p=0.05,0.84,0.8377,10.64,0.3
